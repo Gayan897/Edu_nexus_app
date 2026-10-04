@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707817556817",
+    "project_id": "sams-flutter-d6499",
+    "storage_bucket": "sams-flutter-d6499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707817556817:android:3e02f912803b904228a170",
+        "android_client_info": {
+          "package_name": "com.sams.sams_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3178BD_7beTVrB9Ovn-DMZRYpW58ddg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
